@@ -1,5 +1,5 @@
 {
-  "name": "HTML-JS_template",
+  "name": "html-js_template",
   "version": "1.0.0",
   "description": "Default template for task",
   "main": "index.js",
@@ -16,6 +16,7 @@
     "css",
     "javascript",
     "scss",
+    "eslint"
   ],
   "author": "Jastler",
   "license": "ISC",
